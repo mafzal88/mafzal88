@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mohsin Afzal 👋
 
 I’m a .NET / Blazor developer focused on building clean, scalable web applications.
 
@@ -17,7 +17,12 @@ I work primarily with:
 - ASP.NET Core
 - Entity Framework Core
 - SQL Server
-- JavaScript (Interop)
+- Oracle
+- JavaScript
+- React
+- React Native
+- Node JS
+  
 ---
 
 ## Writing & Knowledge Sharing
