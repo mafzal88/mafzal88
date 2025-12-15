@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**mafzal88/mafzal88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a .NET / Blazor developer focused on building clean, scalable web applications.
 
-Here are some ideas to get you started:
+I work primarily with:
+- Blazor Web Apps (.NET 8 / .NET 10)
+- ASP.NET Core
+- REST APIs
+- Localization & multilingual systems
+- Authentication & authorization (JWT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+- C#, .NET 8 / .NET 10
+- Blazor (Server & Web App)
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- JavaScript (Interop)
+---
+
+## Writing & Knowledge Sharing
+I write practical articles focused on real-world .NET and Blazor development:
+
+- Blazor localization
+- Authentication & security
+- Performance optimization
+- Deployment & architecture
+
+
+⭐ If you find my projects useful, feel free to star them.
